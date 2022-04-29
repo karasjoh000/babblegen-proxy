@@ -4,7 +4,7 @@
  "version": "0.0.1",
  "private": true,
  "dependencies": {
-  "async": "^2.5.0",
+  "async": "^2.6.4",
   "cors": "^2.8.4",
   "express": "4.15.5",
   "snoowrap": "^1.14.2",
